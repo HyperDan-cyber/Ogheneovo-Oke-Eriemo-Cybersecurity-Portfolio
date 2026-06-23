@@ -53,6 +53,10 @@ This portfolio documents my cybersecurity training, hands-on labs, investigation
 
 A simulated SOC investigation exercise focused on analyzing suspicious authentication activity, identifying indicators of possible attacks, and documenting recommended response actions.
 
+## Personal Reflection
+
+During this investigation, I learned the importance of understanding normal user behaviour before identifying suspicious activity. SOC analysis requires both technical investigation and clear documentation to support effective incident response.
+
 ### Network Traffic Analysis
 
 Coming soon.
