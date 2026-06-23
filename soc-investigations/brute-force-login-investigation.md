@@ -1,5 +1,15 @@
 # SOC Alert Investigation: Brute Force Login Detection
 
+## Environment
+
+Type:
+Training / Simulated Lab Exercise
+
+Purpose:
+To practice SOC alert triage, suspicious activity analysis, and security reporting.
+
+---
+
 ## Project Overview
 
 This project simulates a Security Operations Center (SOC) investigation involving repeated failed authentication attempts.
@@ -113,3 +123,9 @@ Tools:
 # Lessons Learned
 
 This exercise improved my understanding of how SOC analysts investigate alerts, analyze suspicious activity, and communicate security findings.
+
+---
+
+## Evidence
+
+Screenshots and supporting evidence will be added from authorized training lab environments.
