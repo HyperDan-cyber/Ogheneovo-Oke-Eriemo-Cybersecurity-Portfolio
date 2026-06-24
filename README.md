@@ -51,15 +51,17 @@ This portfolio documents my cybersecurity training, hands-on labs, investigation
 
 ### SOC Alert Investigation: Brute Force Login Detection
 
-A simulated SOC investigation exercise focused on analyzing suspicious authentication activity, identifying indicators of possible attacks, and documenting recommended response actions.
+Simulated SOC investigation focused on alert triage, suspicious authentication activity, incident documentation, and recommended response actions.
 
-## Personal Reflection
+[View Project](./soc-investigations/brute-force-login-investigation.md)
 
-During this investigation, I learned the importance of understanding normal user behaviour before identifying suspicious activity. SOC analysis requires both technical investigation and clear documentation to support effective incident response.
 
-### Network Traffic Analysis
+### Network Traffic Analysis Using Wireshark
 
-Coming soon.
+Network security exercise covering TCP/IP, DNS, HTTP/HTTPS concepts, and traffic analysis workflows.
+
+[View Project](./network-analysis/wireshark-traffic-analysis.md)
+
 
 ### Vulnerability Assessment Report
 
