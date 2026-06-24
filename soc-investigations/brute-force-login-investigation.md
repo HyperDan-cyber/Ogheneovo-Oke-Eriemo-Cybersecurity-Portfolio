@@ -120,9 +120,9 @@ Tools:
 
 ---
 
-# Lessons Learned
+## Personal Reflection
 
-This exercise improved my understanding of how SOC analysts investigate alerts, analyze suspicious activity, and communicate security findings.
+During this investigation, I learned the importance of understanding normal user behaviour before identifying suspicious activity. SOC analysis requires both technical investigation and clear documentation to support effective incident response.
 
 ---
 
