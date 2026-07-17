@@ -1,10 +1,16 @@
-# Cybersecurity Portfolio
+# Ogheneovo Oke-Eriemo's Cybersecurity Portfolio
 
-## About Me
+Welcome! I'm an aspiring Security Operations Center (SOC) Analyst with a background in Biotechnology and a growing focus on cybersecurity.
 
-Entry-level cybersecurity professional building practical skills in security operations, networking, vulnerability assessment, and ethical hacking.
+This repository showcases practical projects demonstrating my skills in:
 
-This portfolio documents my cybersecurity training, hands-on labs, investigation exercises, and technical projects.
+- SOC investigations
+- Network traffic analysis
+- SIEM alert analysis
+- Security documentation
+- Continuous cybersecurity learning
+
+Each project emphasizes structured investigation, technical documentation, and clear communication—skills essential for Security Operations.
 
 ---
 
